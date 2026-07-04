@@ -14,10 +14,12 @@
 <img src="https://komarev.com/ghpvc/?username=pratikshakalbhor&style=for-the-badge&color=06B6D4&label=Profile+Views"/>
 </p>
 
-<p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikshakalbhor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pratikshaK61510) 
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikshakalbhor)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pratikshaK61510)
+
+</div>
 
 
 ------
