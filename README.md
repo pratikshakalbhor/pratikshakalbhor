@@ -1,10 +1,91 @@
-# 💫 About Me:
-🌱 Currently learning: Solidity, Ethereum, R, SQL<br>📌 Currently working on: small practice projects<br>🛠 Tools I use: GitHub, Remix IDE, RStudio<br>🤝 Open to: internships and beginner-friendly projects<br>💬 Ask me about: blockchain basics, Python programming, GitHub<br>⚡ Fun fact: I enjoy keeping my code simple and clean
+<!-- ===================== 🌊 HERO ===================== -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=200&section=header&text=Pratiksha%20Kalbhor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=B.Sc.+Blockchain+Technology+Student;Web3+%7C+Solidity+Developer;Building+Decentralized+Applications;Learning+Every+Day+%F0%9F%9A%80" />
+</p>  
+  
+<p align="center">
+<a href="https://github.com/pratikshakalbhor">
+<img src="https://img.shields.io/github/followers/pratikshakalbhor?label=Followers&style=for-the-badge&color=2563EB&labelColor=0F172A"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=pratikshakalbhor&style=for-the-badge&color=06B6D4&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikshakalbhor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pratikshaK61510) 
+</p>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+------
+ 
+# 👋 Hello, I'm Pratiksha Kalbhor
+ 
+🎓 B.Sc. Blockchain Technology Student (3rd Year)
+ 
+💻 Passionate about Blockchain, Web3 and Smart Contract Development
+ 
+🚀 Currently improving my Solidity, Hardhat, Ethereum and Full Stack Development skills
+ 
+🌱 Always learning new technologies and building practical projects
+ 
+📚 Actively preparing for placements and hackathons
+ 
+---
+ 
+# 🚀 About Me
+ 
+- 🔗 Blockchain & Web3 Enthusiast
+- ⛓ Solidity Smart Contract Developer
+- ⚡ Learning Hardhat & Foundry
+- 🌍 Exploring Ethereum, Stellar & Hedera
+- 🗄 Learning MongoDB & SQL
+- 💡 Love building real-world blockchain projects
+---
+ 
+# 🛠 Tech Stack
+ 
+### Blockchain
+<p><img src="https://skillicons.dev/icons?i=solidity,ethereum" /></p>
 
+### Programming Languages
+<p><img src="https://skillicons.dev/icons?i=js,python,go" /></p>
+
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /></p>
+
+### Database
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
+
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
+
+---
+ 
+
+# 📚 Currently Learning
+ 
+- Solidity Advanced
+- Hardhat & Foundry
+- Ethereum
+- Go Programming
+- Hyperledger Fabric
+- Corda
+  
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikshakalbhor&theme=tokyo-night"/>
+
+</p>
+
+---
 
 # 📊 GitHub Stats:
 
@@ -28,14 +109,7 @@
 </div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikshakalbhor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pratikshaK61510) 
+# 💙 Quote
+ 
+> "Success doesn't come from what you know. It comes from what you build consistently."
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratikshakalbhor&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pratikshakalbhor&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
